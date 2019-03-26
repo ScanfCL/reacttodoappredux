@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Prompt-Regular';
+  src: url('/font/Prompt-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Prompt-Medium';
+  src: url('/font/Prompt-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'Prompt-Bold';
+  src: url('/font/Prompt-Bold.ttf');
+}
+
+h1, h1, h3, h4, h5, h6 {
+  font-family: 'Prompt-Medium';
+}
+.title{
+  font-family: 'Prompt-Regular';
+}
+
+.resizeicon{
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.inputCenter{
+  text-align: center;
+}
