@@ -1,2 +1,2 @@
 # reacttodoappredux
-Eample code
+Example code
